@@ -1,4 +1,4 @@
 def add(a,b):
-	pass
+	sum=a + b
 def sub(a,b):
         pass
